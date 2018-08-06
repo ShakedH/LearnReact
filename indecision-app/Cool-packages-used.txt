@@ -1,0 +1,8 @@
+* live-server (install with npm or yarn)
+    Serve public folder without building backend
+* Babel - babeljs.io
+    Render React or advanced ES to old ES
+    cmd: babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
+* Yarn-
+    Use packages( like npm)
+    cmd: use yarn init to create package.json & yarn add to add dependencies
