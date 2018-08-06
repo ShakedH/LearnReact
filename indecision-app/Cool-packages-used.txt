@@ -1,5 +1,6 @@
 * live-server (install with npm or yarn)
     Serve public folder without building backend
+    cmd: live-server public
 * Babel - babeljs.io
     Render React or advanced ES to old ES
     cmd: babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
